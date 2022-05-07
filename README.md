@@ -1,5 +1,5 @@
 # Ozi-Bots-EkipPm2
-kısaca jaylenozi kardeşimin tüm botlarını pm2 ve ekipler için etiket tagına uyarlayıp atacağım
+kısaca jaylenozi kardeşimin tüm botlarını pm2 ve ekipler için etiket tagına uyarlayıp atacağım v12 ona göre
 # Gerekenler
 10 star 1 fork ÖDWQEKOÖQWOEIWQKJIOWQJ 
 # Tassakli bir pm2 gelecek star ve fork gelirse bilginize..
